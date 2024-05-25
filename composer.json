@@ -1,5 +1,5 @@
 {
-    "name": "elsayed85/tinymce",
+    "name": "hammertime-red/tinymce",
     "description": "TinyMCE editor for Laravel Orchid",
     "type": "library",
     "require": {
